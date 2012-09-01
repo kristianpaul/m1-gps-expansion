@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Fri 31 Aug 2012 09:03:50 PM COT
+EESchema Schematic File Version 2  date Fri 31 Aug 2012 09:12:51 PM COT
 LIBS:lib_passive
 LIBS:lib_active
 LIBS:lib_connectors
@@ -1851,7 +1851,7 @@ P 12150 15200
 F 0 "DA4" H 12650 15350 60  0000 C CNN
 F 1 "TPS79230" H 12650 14850 60  0000 C CNN
 F 2 "SOT23" H 12150 15200 60  0001 C CNN
-F 3 "http://datasheet.octopart.com/TPS79230DBVR-Texas-Instruments-datasheet-151329.pdf" H 12150 15200 60  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tps79230.pdf" H 12150 15200 60  0001 C CNN
 	1    12150 15200
 	1    0    0    -1  
 $EndComp
@@ -1862,7 +1862,7 @@ P 12150 14000
 F 0 "DA3" H 12650 14150 60  0000 C CNN
 F 1 "TPS79230" H 12650 13650 60  0000 C CNN
 F 2 "SOT23" H 12150 14000 60  0001 C CNN
-F 3 "http://datasheet.octopart.com/TPS79230DBVR-Texas-Instruments-datasheet-151329.pdf" H 12150 14000 60  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tps79230.pdf" H 12150 14000 60  0001 C CNN
 	1    12150 14000
 	1    0    0    -1  
 $EndComp
@@ -2005,7 +2005,7 @@ P 12150 12800
 F 0 "DA2" H 12650 12950 60  0000 C CNN
 F 1 "TPS79230" H 12650 12450 60  0000 C CNN
 F 2 "SOT23" H 12150 12800 60  0001 C CNN
-F 3 "http://datasheet.octopart.com/TPS79230DBVR-Texas-Instruments-datasheet-151329.pdf" H 12150 12800 60  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tps79230.pdf" H 12150 12800 60  0001 C CNN
 	1    12150 12800
 	1    0    0    -1  
 $EndComp
