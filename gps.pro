@@ -36,13 +36,15 @@ TxtLar=120
 MSegLar=150
 WpenSer=10
 [pcbnew/libraries]
-LibDir=
+;LibDir=
 LibName1=lib_active
 LibName2=lib_passive
 LibName3=lib_connectors
+LibName4=pwr
+LibDir=../kicad-libs/modules
 [eeschema]
 version=1
-LibDir=
+LibDir=../kicad-libs/components
 NetFmt=1
 HPGLSpd=20
 HPGLDm=15
@@ -79,3 +81,4 @@ ShowSheetReferenceAndTitleBlock=1
 LibName1=lib_passive
 LibName2=lib_active
 LibName3=lib_connectors
+LibName4=pwr

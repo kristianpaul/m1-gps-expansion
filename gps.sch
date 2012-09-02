@@ -3,6 +3,7 @@ LIBS:lib_passive
 LIBS:lib_active
 LIBS:lib_connectors
 LIBS:gps-cache
+LIBS:pwr
 EELAYER 25  0
 EELAYER END
 $Descr A1 33070 23400
