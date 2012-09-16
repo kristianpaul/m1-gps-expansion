@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Sun 16 Sep 2012 11:19:59 AM COT
+EESchema Schematic File Version 2  date Sun 16 Sep 2012 11:22:33 AM COT
 LIBS:lib_passive
 LIBS:lib_active
 LIBS:lib_connectors
@@ -325,7 +325,7 @@ F 2 "0805" H 15350 11850 60  0001 C CNN
 	0    1    1    0   
 $EndComp
 Text Label 12500 11700 0    60   ~ 0
-VccA_GPS
+Vcc
 $Comp
 L POWER_GND #07
 U 1 1 4B90F7CC
@@ -367,7 +367,7 @@ $EndComp
 Text Notes 14650 8200 0    197  ~ 0
 GPS-Receiver
 Text Label 15550 11700 0    60   ~ 0
-VccD_GPS
+Vcc
 Text Label 18900 11700 0    60   ~ 0
 I1
 Text Label 18900 11600 0    60   ~ 0
@@ -385,7 +385,7 @@ LD_in
 Text Label 16000 11850 0    60   ~ 0
 Ref_freq
 Text Label 13000 9050 0    60   ~ 0
-Vcc_Ref_freq
+Vcc
 Text Label 17200 11900 0    60   ~ 0
 ~CS
 Text Label 17200 11800 0    60   ~ 0
